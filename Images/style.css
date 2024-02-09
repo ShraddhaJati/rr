@@ -1,0 +1,9 @@
+footer
+{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    /* position: fixed; */
+    bottom: 0px;
+    position: absolute;
+}
